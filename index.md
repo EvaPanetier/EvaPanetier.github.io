@@ -1,25 +1,27 @@
 ---
 bigimg: /img/trappist1f.jpg
 layout: page
-title: Maël Voyer
+title: Eva Panetier
 subtitle: Commissariat à l'énergie atomique (CEA) - Paris-Cité University
 css: /custom/main.css
 
 ---
 
-Hey, I am Maël a PhD student at CEA in Saclay. I focus on the properties of exoplanet atmospheres and improving the data reduciton for JWST MIRI-LRS and NIRSpec IFU. 
+Hi ! I'm Eva Panetier, a PhD student interested in asteroseismology and magnetic cycles of solar-like stars.
 
 ---
 
-### PAPER OUT: A COLD EXOPLANET AROUND A WHITE DWARF ! [10.3847/2041-8213/adbd46](https://iopscience.iop.org/article/10.3847/2041-8213/adbd46)
+### PAPER OUT: Revisiting the hypothesis of purely stochastic excitation of global p modes in the Sun [10.1051/0004-6361/202555189](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.236P/abstract)
 
 ---
 
 ### Research Interests
 My research interests include:
-- Physics, chemistry and everything related to exoplanets and their formation.
-- Bayesian retrieval methods.
-- JWST instruments (MIRI, NIRSpec, etc.), ARIEL, PLATO, ELT
+- Physics, astrophysics, especially solar and stellar related.
+- Pulsations and oscillation of stars, asteroseismology.
+- Magnetism.
+- Data analysis, statistics.
+- SoHO instrumeents, CoRoT, Kepler, TESS, PLATO
 - Science.
 
 ## Curriculum Vitae
@@ -27,7 +29,7 @@ My research interests include:
 ---
 
 ### Contact
-Email : mael.voyer@cea.fr     <br />
+Email : eva.panetier@cea.fr     <br />
 **PhD student** <br />
 Astrophysics Department, CEA & Paris-Cité University <br />
 Orme des meirisiers<br />
