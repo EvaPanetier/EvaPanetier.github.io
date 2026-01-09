@@ -9,9 +9,9 @@ My research contribution includes yet few publications, just starting !       <b
 
 ---
 
-### Recent first-author publications (updated 20/03/25):
+### Recent first-author publications:
 
-- 1) Voyer et al. (2025) - MIRI-LRS Spectrum of a Cold Exoplanet around a White Dwarf: Water, Ammonia, and Methane Measurements, ApJL 982 L38. https://iopscience.iop.org/article/10.3847/2041-8213/adbd46  <br />       <br />
+- 1) Panetier et al. (2025) - Revisiting the hypothesis of purely stochastic excitation of global p modes in the Sun, A&A 700 A236. https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.236P/abstract  <br />       <br />
 
 ---
 
