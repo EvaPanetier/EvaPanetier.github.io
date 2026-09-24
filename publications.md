@@ -25,7 +25,7 @@ title: Publications
 
   <p class="publication-journal">
     <em>Astronomy & Astrophysics</em>, 2026.
-    <a href="https://www.aanda.org/articles/aa/full_html/2026/08/aa59786-26/aa59786-26.html" target="_blank">Link</a>
+    <a href="https://www.aanda.org/articles/aa/full_html/2026/08/aa59786-26/aa59786-26.html" target="_blank">Read the paper</a>
   </p>
 
   <p class="publication-description contribution">
@@ -51,7 +51,7 @@ title: Publications
 
   <p class="publication-journal">
     <em>Astronomy & Astrophysics</em>, 2025.
-    <a href="https://www.aanda.org/articles/aa/full_html/2025/08/aa55189-25/aa55189-25.html" target="_blank">Link</a>
+    <a href="https://www.aanda.org/articles/aa/full_html/2025/08/aa55189-25/aa55189-25.html" target="_blank">Read the paper</a>
   </p>
 
   <p class="publication-description contribution">
@@ -84,7 +84,7 @@ title: Publications
 
   <p class="publication-journal">
     <em>Astronomy & Astrophysics</em>, 2026.
-    <a href="#" target="_blank">Link</a>
+    <a href="https://www.aanda.org/articles/aa/full_html/2026/06/aa59849-26/aa59849-26.html" target="_blank">Read the paper</a>
   </p>
 
   <p class="publication-description contribution">
@@ -116,7 +116,7 @@ title: Publications
 
   <p class="publication-journal">
     <em>Astronomy & Astrophysics</em>, 2026.
-    <a href="#" target="_blank">Link</a>
+    <a href="https://www.aanda.org/articles/aa/full_html/2026/07/aa60277-26/aa60277-26.html" target="_blank">Read the paper</a>
   </p>
 
 </div>
@@ -136,7 +136,7 @@ title: Publications
 
   <p class="publication-journal">
     <em>Astronomy & Astrophysics</em>, 2026.
-    <a href="#" target="_blank">Link</a>
+    <a href="https://www.aanda.org/articles/aa/full_html/2026/02/aa57452-25/aa57452-25.html" target="_blank">Read the paper</a>
   </p>
 
 </div>
@@ -155,7 +155,7 @@ title: Publications
 
   <p class="publication-journal">
     <em>Astronomy & Astrophysics</em>, 2024.
-    <a href="#" target="_blank">Link</a>
+    <a href="https://www.aanda.org/articles/aa/full_html/2024/11/aa51949-24/aa51949-24.html" target="_blank">Read the paper</a>
   </p>
 
 </div>
@@ -175,7 +175,7 @@ title: Publications
 
   <p class="publication-journal">
     <em>Astronomy & Astrophysics</em>, 2024.
-    <a href="#" target="_blank">Link</a>
+    <a href="https://www.aanda.org/articles/aa/full_html/2024/09/aa49893-24/aa49893-24.html" target="_blank">Read the paper</a>
   </p>
 
 </div>
@@ -199,7 +199,7 @@ title: Publications
   <p class="publication-journal">
     Invited review presentation at the Friends of Friends meeting,
     Córdoba, Argentina, April 2026.
-    <a href="#" target="_blank">Link</a>
+    <a href="https://fof.oac.uncor.edu/2026/" target="_blank">Visit the conference website</a>
   </p>
 
 </div>
@@ -242,7 +242,7 @@ title: Publications
   <p class="publication-journal">
     Proceedings of the PLATO Stellar Science Conference 2026,
     Liège, Belgium. Oral presentation.
-    <a href="#" target="_blank">Link</a>
+    <a href="https://zenodo.org/records/22282450" target="_blank">See the presentation slides</a>
   </p>
 
 </div>
@@ -301,8 +301,8 @@ title: Publications
 
   <p class="publication-journal">
     Proceedings of the 9th TESS/16th Kepler Asteroseismic Science Consortium Workshop,
-    Vienna, Austria, 2025. Poster.
-    <a href="#" target="_blank">Link</a>
+    Vienna, Austria, 2025. Poster. Best poster prize.
+    <a href="https://ui.adsabs.harvard.edu/link_gateway/2025tasc.confE..44P/PUB_HTML" target="_blank">Read the proceeding</a>
   </p>
 
 </div>
@@ -323,7 +323,7 @@ title: Publications
   <p class="publication-journal">
     Proceedings of the 9th TESS/16th Kepler Asteroseismic Science Consortium Workshop,
     Vienna, Austria, 2025. Poster.
-    <a href="#" target="_blank">Link</a>
+    <a href="https://ui.adsabs.harvard.edu/link_gateway/2025tasc.confE..33P/PUB_HTML" target="_blank">See the poster</a>
   </p>
 
 </div>
@@ -342,7 +342,7 @@ title: Publications
   <p class="publication-journal">
     Proceedings of the 8th TESS/15th Kepler Asteroseismic Science Consortium Workshop,
     Porto, Portugal, 2024. Poster.
-    <a href="#" target="_blank">Link</a>
+    <a href="https://ui.adsabs.harvard.edu/link_gateway/2024tkas.confE.107P/PUB_HTML" target="_blank">See the poster</a>
   </p>
 
 </div>
@@ -387,7 +387,7 @@ title: Publications
   <p class="publication-journal">
     Proceedings of the SF2A days, Toulouse, France, 2025.
     Oral presentation.
-    <a href="#" target="_blank">Link</a>
+    <a href="https://ui.adsabs.harvard.edu/abs/2025sf2a.conf..471P/abstract" target="_blank">Read the proceeding</a>
   </p>
 
 </div>
@@ -405,7 +405,7 @@ title: Publications
 
   <p class="publication-journal">
     Proceedings of the SF2A days, Marseille, France, 2024. Poster.
-    <a href="#" target="_blank">Link</a>
+    <a href="https://ui.adsabs.harvard.edu/abs/2024sf2a.conf...93P/abstract" target="_blank">Read the proceeding</a>
   </p>
 
 </div>
