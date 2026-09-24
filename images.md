@@ -70,4 +70,18 @@ Here you can find visuals I created to illustrate my research. Feel free to use 
     <p class="image-title">Échelle diagram made from SoHO/GOLF observations</p>
   </div>
 
+  <div class="image-item">
+    <a href="/img/frequency-contributions.png" target="_blank">
+      <img src="/img/frequency-contributions.png" alt="PSD contributions">
+    </a>
+    <p class="image-title">Indication of the different contributions in the solar PSD from SoHO/GOLF data</p>
+  </div>
+
+  <div class="image-item">
+    <a href="/img/solar-modes-properties.png" target="_blank">
+      <img src="/img/solar-modes-properties.png" alt="Solar modes properties">
+    </a>
+    <p class="image-title">Properties of the solar modes from SoHO/GOLF data</p>
+  </div>
+
 </div>
