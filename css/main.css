@@ -857,3 +857,10 @@ td.gutter {
   text-decoration: underline;
 }
 
+main h2 {
+  margin-top: 55px;
+  margin-bottom: 10px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #0F4C81;
+  color: #333;
+}
