@@ -778,32 +778,31 @@ td.gutter {
   }
 }
 
-/* =========================
-   Publications
-   ========================= */
+/* ================================
+   PUBLICATIONS
+   ================================ */
 
 .pub-list {
-  margin: 30px 0 50px 0;
+  margin: 25px 0 45px 0;
 }
 
 .pub-entry {
   display: grid;
   grid-template-columns: 70px 1fr;
-  column-gap: 25px;
-
-  padding: 25px 0;
+  gap: 25px;
+  margin-bottom: 32px;
+  padding-bottom: 28px;
   border-bottom: 1px solid #e5e5e5;
 }
 
-.pub-entry:first-child {
-  border-top: 1px solid #e5e5e5;
+.pub-entry:last-child {
+  border-bottom: none;
 }
 
 .pub-year {
-  font-size: 1.1rem;
+  font-size: 1.25rem;
   font-weight: 600;
   color: #777;
-  text-align: right;
   padding-top: 3px;
 }
 
@@ -814,42 +813,30 @@ td.gutter {
 .pub-title {
   margin: 0 0 8px 0;
   font-size: 1.15rem;
-  line-height: 1.4;
+  line-height: 1.45;
   font-weight: 600;
-  color: #333;
 }
 
 .pub-authors {
   margin: 0 0 5px 0;
-  font-size: 0.95rem;
-  line-height: 1.5;
-  color: #555;
+  line-height: 1.6;
 }
 
 .pub-me {
   font-weight: 700;
-  color: #222;
+  color: #333;
 }
 
 .pub-journal {
-  margin: 0 0 10px 0;
-  font-size: 0.92rem;
+  margin: 4px 0 8px 0;
   color: #666;
-}
-
-.pub-description {
-  margin: 12px 0;
-  font-size: 0.92rem;
-  line-height: 1.6;
-  color: #555;
 }
 
 .pub-link {
   display: inline-block;
-  margin-top: 4px;
-  font-size: 0.9rem;
-  font-weight: 600;
+  margin: 3px 0 10px 0;
   color: #0F4C81;
+  font-weight: 600;
   text-decoration: none;
 }
 
@@ -857,10 +844,61 @@ td.gutter {
   text-decoration: underline;
 }
 
-main h2 {
-  margin-top: 55px;
-  margin-bottom: 10px;
-  padding-bottom: 8px;
-  border-bottom: 2px solid #0F4C81;
-  color: #333;
+.pub-description {
+  margin-top: 10px;
+  margin-bottom: 0;
+  line-height: 1.65;
+  color: #555;
+}
+
+.pub-contribution {
+  margin-top: 14px;
+  padding: 12px 16px;
+  background: #f7f7f7;
+  border-left: 3px solid #0F4C81;
+  line-height: 1.65;
+  color: #555;
+}
+
+.publication-count {
+  display: inline-block;
+  margin: -5px 0 20px 0;
+  padding: 4px 10px;
+  border-radius: 4px;
+  background: #f1f1f1;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+/* Section headings */
+
+main h1 {
+  margin-top: 45px;
+  margin-bottom: 25px;
+}
+
+main h3 {
+  margin-top: 30px;
+  margin-bottom: 8px;
+}
+
+/* Mobile */
+
+@media (max-width: 600px) {
+
+  .pub-entry {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+
+  .pub-year {
+    font-size: 1rem;
+    color: #0F4C81;
+    font-weight: 600;
+  }
+
+  .pub-title {
+    font-size: 1.05rem;
+  }
+
 }
