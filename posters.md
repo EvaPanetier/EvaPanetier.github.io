@@ -3,7 +3,7 @@ layout: page
 title: Posters
 ---
 
-# Here you can find selected posters presenting my research.
+Here you can find selected posters presenting my research.
 
 <div class="poster-grid">
 
@@ -19,7 +19,7 @@ title: Posters
     <a href="/img/poster_excitation_0725.pdf" target="_blank">
       <img src="/img/poster_excitation_0725.png" alt="Poster 2">
     </a>
-    <h3>Is turbulent convection the only exciting mechanism of acoustic modes in lsolar-like oscillators? </h3>
+    <h3>Is turbulent convection the only exciting mechanism of acoustic modes in solar-like oscillators? </h3>
     <p>TASC9/KASC16 — 9th TESS/16th Kepler Asteroseismic Science Consortium Workshop · Vienna (Austria) · 2025</p>
   </div>
 
