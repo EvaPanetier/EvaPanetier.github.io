@@ -742,7 +742,7 @@ td.gutter {
 
 .image-gallery .image-wide img {
   width: 600px;
-  max-width: 90%;
+  max-width: 100%;
 }
 
 .image-title {
