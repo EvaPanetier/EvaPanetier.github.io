@@ -788,7 +788,7 @@ td.gutter {
   padding: 20px 24px 18px 28px;
 
   background: #f7faf8;
-  border-left: 4px solid #176B4D;
+  border-left: 4px solid #7F81E3;
   border-radius: 8px;
 
   box-shadow: 0 2px 8px rgba(0, 50, 30, 0.08);
@@ -807,7 +807,7 @@ td.gutter {
    ========================================================= */
 
 .publication-title {
-  color: #0F4A35;
+  color: #4150A9;
   font-size: 1.18em;
   font-weight: 700;
   line-height: 1.45;
@@ -817,9 +817,12 @@ td.gutter {
 
 
 /* If your title is simply written in <strong> */
-.publication strong:nth-of-type(2) {
-  color: #0F4A35;
-  font-size: 1.12em;
+.publication-title {
+  margin: 0 0 10px 0;
+  color: #4150A9;
+  font-size: 1.18em;
+  font-weight: 700;
+  line-height: 1.45;
 }
 
 
@@ -832,7 +835,7 @@ td.gutter {
 }
 
 .publication strong:first-child {
-  color: #176B4D;
+  color: #7F81E3;
 }
 
 
@@ -841,13 +844,13 @@ td.gutter {
    ========================================================= */
 
 .publication a {
-  color: #176B4D;
+  color: #7F81E3;
   font-weight: 600;
   text-decoration: none;
 }
 
 .publication a:hover {
-  color: #0F4A35;
+  color: #4150A9;
   text-decoration: underline;
 }
 
@@ -888,7 +891,7 @@ td.gutter {
   padding: 4px 11px;
 
   background: #e2efe9;
-  color: #176B4D;
+  color: #7F81E3;
 
   border-radius: 20px;
 
@@ -905,7 +908,7 @@ main h2 {
   margin-top: 45px;
   margin-bottom: 20px;
 
-  color: #176B4D;
+  color: #7F81E3;
 
   border-bottom: 2px solid #d5e3dc;
   padding-bottom: 8px;
@@ -915,7 +918,7 @@ main h3 {
   margin-top: 32px;
   margin-bottom: 8px;
 
-  color: #0F4A35;
+  color: #4150A9;
 }
 
 
