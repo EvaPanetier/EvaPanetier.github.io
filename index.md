@@ -9,7 +9,7 @@ css: /custom/main.css
 
 Hi! I'm Eva Panetier, a PhD researcher in solar and stellar physics.
 I study the dynamics of stars through their oscillations, with a particular interest in stellar rotation and magnetism.
-My research focuses on understanding the connections between stellar internal structure, rotation, and magnetic activity using a combination of asteroseismology, observational analysis, methodological development, and mean-field dynamo modelling.
+My research focuses on understanding the connections between stellar internal structure, rotation, and magnetic activity, using a combination of asteroseismology, observational analysis, methodological development, and mean-field dynamo modelling.
 
 <div class="quick-links">
   <a href="/projects/">Research</a>
@@ -18,11 +18,18 @@ My research focuses on understanding the connections between stellar internal st
 </div>
 ---
 
-### PAPER OUT: 
-## Luminaries in the Sky: The TESS LEGACY Sample of Bright Stars. II. In-depth seismic characterisation of 32 naked-eye stars in the PLATO LOP fields 
-[10.1051/0004-6361/202659786](https://www.aanda.org/articles/aa/full_html/2026/08/aa59786-26/aa59786-26.html)
-How well can we characterise the internal properties of bright, solar-like stars?
-In this work, we use observations from NASA's TESS mission to perform a detailed asteroseismic analysis of 32 bright stars that will also be observed by ESA's PLATO mission. By measuring the oscillations of these stars with three independent analysis methods, we assess the robustness of their seismic properties and identify challenges in analysing stars with more complex oscillation spectra. The resulting reference catalogues provide a valuable foundation for future studies with PLATO.
+## Featured research
+
+### Luminaries in the Sky: The TESS LEGACY Sample of Bright Stars. II. In-depth seismic characterisation of 32 naked-eye stars in the PLATO LOP fields
+
+*Panetier et al. 2026 — Astronomy & Astrophysics*
+
+**How well can we characterise the internal properties of bright, solar-like stars?**
+
+In this work, we use observations from NASA's TESS mission to perform a detailed asteroseismic analysis of 32 bright stars that will also be observed by ESA's PLATO mission. By measuring their oscillations with three independent analysis methods, we assess the robustness of their seismic properties and identify challenges in analysing stars with more complex oscillation spectra. The resulting reference catalogues provide a valuable foundation for future studies with PLATO.
+
+[Read the paper →](https://www.aanda.org/articles/aa/full_html/2026/08/aa59786-26/aa59786-26.html)
+
 ---
 
 ### Research Interests
