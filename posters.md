@@ -34,6 +34,11 @@ Here you can find selected posters presenting my research.
       <p class="poster-location">
         TASC9/KASC16 — 9th TESS/16th Kepler Asteroseismic Science Consortium Workshop · Vienna, Austria · 2025
       </p>
+      <p class="poster-links">
+        <a href="[10.5281/zenodo.17341400](https://zenodo.org/records/17341401)" target="_blank" rel="noopener">
+        Zenodo
+        </a>
+      </p>
     </div>
   </div>
 
@@ -48,6 +53,11 @@ Here you can find selected posters presenting my research.
       </p>
       <p class="poster-location">
         TASC9/KASC16 — 9th TESS/16th Kepler Asteroseismic Science Consortium Workshop · Vienna, Austria · 2025
+      </p>
+      <p class="poster-links">
+        <a href="[10.5281/zenodo.17295203](https://zenodo.org/records/17295204)" target="_blank" rel="noopener">
+        Zenodo
+        </a>
       </p>
     </div>
   </div>
