@@ -11,12 +11,23 @@ title: Publications
 
 <div class="pub-list">
 
-<div class="pub-entry">
-  <div class="pub-year">2025</div>
-  <div class="pub-content">
+<div class="pub-card">
+
+  <div class="pub-card-header">
+
+    <span class="pub-year">2025</span>
+
+    <span class="pub-type first-author">
+      First author
+    </span>
+
+  </div>
+
+  <div class="pub-card-body">
 
     <h4 class="pub-title">
-      Revisiting the hypothesis of purely stochastic excitation of global p modes in the Sun
+      Revisiting the hypothesis of purely stochastic excitation
+      of global p modes in the Sun
     </h4>
 
     <p class="pub-authors">
@@ -25,10 +36,8 @@ title: Publications
     </p>
 
     <p class="pub-journal">
-      <em>Astronomy & Astrophysics</em>, 2025
+      <em>Astronomy & Astrophysics</em>
     </p>
-
-    <a class="pub-link" href="#" target="_blank">Link</a>
 
     <p class="pub-description">
       This work examines how surface magnetic activity influences the excitation
@@ -38,8 +47,14 @@ title: Publications
       correlation with magnetic activity events, including CMEs and solar flares.
     </p>
 
+    <a class="pub-link" href="#" target="_blank">
+      ↗ Read publication
+    </a>
+
   </div>
+
 </div>
+
 
 
 <div class="pub-entry">
