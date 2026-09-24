@@ -947,4 +947,25 @@ main h3 {
 }
 
 
+/* ORCID footer icon */
+
+.orcid-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 40px;
+  height: 40px;
+
+  border-radius: 50%;
+  background-color: #a6ce39;
+}
+
+.orcid-icon img {
+  width: 22px;
+  height: 22px;
+  display: block;
+}
+
+
 
