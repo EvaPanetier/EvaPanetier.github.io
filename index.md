@@ -1,14 +1,21 @@
 ---
-bigimg: /img/trappist1f.jpg
+bigimg: /img/ESA_Solar_Orbiter_EUI.png
 layout: page
 title: Eva Panetier
-subtitle: Commissariat à l'énergie atomique (CEA) - Paris-Cité University
+subtitle: Paris-Cité University - Commissariat à l'énergie atomique (CEA)
 css: /custom/main.css
 
 ---
 
-Hi ! I'm Eva Panetier, a PhD student interested in asteroseismology and magnetic cycles of solar-like stars.
+Hi! I'm Eva Panetier, a PhD researcher in solar and stellar physics.
+I study the dynamics of stars through their oscillations, with a particular interest in stellar rotation and magnetism.
+My research focuses on understanding the connections between stellar internal structure, rotation, and magnetic activity using a combination of asteroseismology, observational analysis, methodological development, and mean-field dynamo modelling.
 
+<div class="quick-links">
+  <a href="/projects/">Research</a>
+  <a href="/publications/">Publications</a>
+  <a href="/datasets/">Data & Code</a>
+</div>
 ---
 
 ### PAPER OUT: Revisiting the hypothesis of purely stochastic excitation of global p modes in the Sun [10.1051/0004-6361/202555189](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.236P/abstract)
@@ -22,7 +29,6 @@ My research interests include:
 - Magnetism.
 - Data analysis, statistics.
 - SoHO instrumeents, CoRoT, Kepler, TESS, PLATO
-- Science.
 
 ## Curriculum Vitae
 
