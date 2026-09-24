@@ -13,12 +13,12 @@ title: Publications
 
 <div class="publication">
 
-<p class="pub-authors">
-<strong>Panetier E.</strong>, García R. A., Breton S. N., Jiménez A. & Foglizzo T.
-</p>
-
 <p class="pub-title">
 <strong>Revisiting the hypothesis of purely stochastic excitation of global p modes in the Sun.</strong>
+</p>
+
+<p class="pub-authors">
+<strong>Panetier E.</strong>, García R. A., Breton S. N., Jiménez A. & Foglizzo T.
 </p>
 
 <p class="pub-journal">
