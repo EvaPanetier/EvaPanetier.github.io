@@ -8,6 +8,13 @@ Here you can find visuals I created to illustrate my research. Feel free to use 
 <div class="image-gallery">
 
   <div class="image-item">
+    <a href="/img/stellar-evolution.png" target="_blank">
+      <img src="/img/stellar-evolution.png" alt="Stellar evolution">
+    </a>
+    <p class="image-title">Evolutionary phases of a low-mass star</p>
+  </div>
+  
+  <div class="image-item">
     <a href="/img/main-sequence-modes.png" target="_blank">
       <img src="/img/main-sequence-modes.png" alt="Main-sequence stellar modes">
     </a>
