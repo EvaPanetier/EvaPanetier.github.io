@@ -778,317 +778,118 @@ td.gutter {
   }
 }
 
-/* =========================================
-   PUBLICATIONS
-   ========================================= */
+/* =========================================================
+   Publications — visual cards
+   ========================================================= */
 
-.pub-list {
-  margin: 30px 0 55px 0;
-}
-
-
-/* -----------------------------------------
-   Publication card
-   ----------------------------------------- */
-
-.pub-card {
+.publication {
   position: relative;
-  margin: 0 0 28px 0;
-  padding: 0;
-  background: #ffffff;
-  border: 1px solid #e4e8ec;
-  border-radius: 12px;
-  overflow: hidden;
+  margin: 22px 0;
+  padding: 20px 24px 18px 28px;
 
-  box-shadow:
-    0 3px 12px rgba(0, 0, 0, 0.05);
+  background: #f8fafc;
+  border-left: 4px solid #0F4C81;
+  border-radius: 8px;
 
-  transition:
-    transform 0.2s ease,
-    box-shadow 0.2s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.pub-card:hover {
-  transform: translateY(-3px);
-
-  box-shadow:
-    0 8px 24px rgba(15, 76, 129, 0.12);
+.publication:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.12);
 }
-
-
-/* -----------------------------------------
-   Card header
-   ----------------------------------------- */
-
-.pub-card-header {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-
-  padding: 12px 20px;
-
-  background: linear-gradient(
-    135deg,
-    #f4f8fb,
-    #eef4f8
-  );
-
-  border-bottom: 1px solid #e2e8ed;
-}
-
-
-/* Year */
-
-.pub-year {
-  display: inline-block;
-
-  padding: 4px 11px;
-
-  border-radius: 20px;
-
-  background: #0F4C81;
-  color: white;
-
-  font-size: 0.85rem;
-  font-weight: 700;
-}
-
-
-/* Publication type */
-
-.pub-type {
-  display: inline-block;
-
-  padding: 4px 10px;
-
-  border-radius: 20px;
-
-  font-size: 0.75rem;
-  font-weight: 600;
-
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
-
-
-/* Different colours for different types */
-
-.first-author {
-  background: #e7f3ec;
-  color: #28734a;
-}
-
-.main-author {
-  background: #eee8f7;
-  color: #7045a5;
-}
-
-.co-author {
-  background: #edf1f5;
-  color: #596773;
-}
-
-.oral {
-  background: #fff2df;
-  color: #a35a00;
-}
-
-.poster {
-  background: #e8f1fa;
-  color: #17629a;
-}
-
-
-/* -----------------------------------------
-   Card body
-   ----------------------------------------- */
-
-.pub-card-body {
-  padding: 22px 24px 24px 24px;
-}
-
-
-/* Title */
-
-.pub-title {
-  margin: 0 0 10px 0;
-
-  font-size: 1.15rem;
-  line-height: 1.45;
-
-  font-weight: 650;
-
-  color: #243746;
-}
-
 
 /* Authors */
+.publication p {
+  margin-bottom: 8px;
+}
 
-.pub-authors {
-  margin: 0 0 6px 0;
+/* Title */
+.publication strong:nth-of-type(2) {
+  color: #17365d;
+}
 
-  line-height: 1.65;
+/* Links */
+.publication a {
+  color: #0F4C81;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.publication a:hover {
+  color: #c45a20;
+  text-decoration: underline;
+}
+
+/* My name */
+.publication strong:first-child {
+  color: #0F4C81;
+}
+
+/* Description / contribution */
+.publication p:last-child {
+  margin-top: 14px;
+  margin-bottom: 0;
+  padding-top: 12px;
+
+  border-top: 1px solid #d9e2ec;
 
   color: #555;
+  font-size: 0.95em;
+  line-height: 1.6;
 }
 
-
-/* Your name */
-
-.pub-me {
-  color: #0F4C81;
-  font-weight: 700;
-}
-
-
-/* Journal / conference */
-
-.pub-journal {
-  margin: 5px 0 15px 0;
-
-  color: #697782;
-
-  font-size: 0.95rem;
-}
-
-
-/* -----------------------------------------
-   Description
-   ----------------------------------------- */
-
-.pub-description {
-  margin: 16px 0 18px 0;
-  padding: 14px 17px;
-
-  background: #f8fafb;
-
-  border-left: 3px solid #5b91b8;
-
-  border-radius: 0 6px 6px 0;
-
-  color: #59636b;
-
-  font-size: 0.94rem;
-  line-height: 1.7;
-}
-
-
-/* -----------------------------------------
-   My contribution
-   ----------------------------------------- */
-
-.pub-contribution {
-  margin: 16px 0 18px 0;
-  padding: 14px 17px;
-
-  background: #faf7fc;
-
-  border-left: 3px solid #8b68ad;
-
-  border-radius: 0 6px 6px 0;
-
-  color: #5c5661;
-
-  font-size: 0.94rem;
-  line-height: 1.7;
-}
-
-.pub-contribution strong {
-  color: #7045a5;
-}
-
-
-/* -----------------------------------------
-   Links
-   ----------------------------------------- */
-
-.pub-link {
-  display: inline-block;
-
-  padding: 7px 13px;
-
+/* "My contribution" */
+.publication .contribution {
+  background: #eef5fa;
   border-radius: 6px;
-
-  background: #0F4C81;
-  color: white !important;
-
-  font-size: 0.85rem;
-  font-weight: 600;
-
-  text-decoration: none !important;
-
-  transition:
-    background 0.2s ease,
-    transform 0.2s ease;
+  padding: 12px 15px;
 }
-
-.pub-link:hover {
-  background: #0a365d;
-
-  transform: translateY(-1px);
-}
-
-
-/* -----------------------------------------
-   Section headings
-   ----------------------------------------- */
-
-main h1 {
-  margin-top: 55px;
-  margin-bottom: 28px;
-
-  color: #243746;
-}
-
-main h3 {
-  margin-top: 35px;
-  margin-bottom: 10px;
-
-  color: #40596b;
-}
-
 
 /* Publication counts */
-
 .publication-count {
   display: inline-block;
 
-  margin: 0 0 20px 0;
+  margin: 2px 0 12px 0;
+  padding: 4px 11px;
 
-  padding: 5px 12px;
+  background: #e8f1f7;
+  color: #0F4C81;
 
   border-radius: 20px;
 
-  background: #eef4f8;
-
-  color: #0F4C81;
-
-  font-size: 0.82rem;
+  font-size: 0.82em;
   font-weight: 600;
 }
 
+/* Section headings */
+main h2 {
+  margin-top: 45px;
+  margin-bottom: 20px;
 
-/* -----------------------------------------
-   Mobile
-   ----------------------------------------- */
+  color: #0F4C81;
 
+  border-bottom: 2px solid #d9e2ec;
+  padding-bottom: 8px;
+}
+
+main h3 {
+  margin-top: 32px;
+  margin-bottom: 8px;
+
+  color: #333;
+}
+
+/* Mobile */
 @media (max-width: 600px) {
 
-  .pub-card-header {
-    padding: 10px 15px;
-  }
-
-  .pub-card-body {
-    padding: 18px;
-  }
-
-  .pub-title {
-    font-size: 1.05rem;
-  }
-
-  .pub-card {
-    border-radius: 9px;
+  .publication {
+    padding: 16px 18px;
+    margin: 16px 0;
   }
 
 }
+
 
