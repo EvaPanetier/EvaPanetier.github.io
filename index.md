@@ -18,7 +18,7 @@ My research focuses on understanding the connections between stellar internal st
 </div>
 ---
 
-## Featured research
+# Featured research
 
 ### Luminaries in the Sky: The TESS LEGACY Sample of Bright Stars. II. In-depth seismic characterisation of 32 naked-eye stars in the PLATO LOP fields
 
@@ -32,7 +32,7 @@ In this work, we use observations from NASA's TESS mission to perform a detailed
 
 ---
 
-### Research Interests
+# Research Interests
 My research interests include:
 - Physics, astrophysics, especially solar and stellar related.
 - Pulsations and oscillation of stars, asteroseismology.
@@ -40,7 +40,7 @@ My research interests include:
 - Data analysis, statistics.
 - SoHO instruments, CoRoT, Kepler, TESS, PLATO
 
-## Curriculum Vitae
+### Curriculum Vitae
 
 ---
 
