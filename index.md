@@ -12,9 +12,11 @@ I study the dynamics of stars through their oscillations, with a particular inte
 My research focuses on understanding the connections between stellar internal structure, rotation, and magnetic activity, using a combination of asteroseismology, observational analysis, methodological development, and mean-field dynamo modelling.
 
 <div class="quick-links">
-  <a href="/projects/">Research</a>
   <a href="/publications/">Publications</a>
-  <a href="/datasets/">Data & Code</a>
+  -
+  <a href="/posters/">Posters gallery</a>
+  -
+  <a href="/images/">Read-to-use Images</a>
 </div>
 ---
 
