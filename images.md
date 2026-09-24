@@ -28,6 +28,13 @@ Here you can find visuals I created to illustrate my research. Feel free to use 
     <p class="image-title">Internal structure of a main-sequence solar-like star</p>
   </div>
 
+  <div class="image-item">
+    <a href="/img/subgiant-structure.png" target="_blank">
+      <img src="/img/subgiant-structure.png" alt="Subgiant stellar structure">
+    </a>
+    <p class="image-title">Insternal structure of a sub-giant star</p>
+  </div>
+
   <div class="image-item image-wide">
     <a href="/img/photospheric_rotation.png" target="_blank">
       <img src="/img/photospheric_rotation.png" alt="Photospheric rotation">
@@ -42,18 +49,11 @@ Here you can find visuals I created to illustrate my research. Feel free to use 
     <p class="image-title">Space missions used for helioseismology</p>
   </div>
 
-  <div class="image-item" image-wide>
+  <div class="image-item image-wide">
     <a href="/img/stars_space_missions.png" target="_blank">
       <img src="/img/stars_space_missions.png" alt="Space missions studying stars">
     </a>
     <p class="image-title">Space missions used for asteroseismology</p>
-  </div>
-
-  <div class="image-item">
-    <a href="/img/stellar-dynamics.png" target="_blank">
-      <img src="/img/stellar-dynamics.png" alt="Stellar dynamics">
-    </a>
-    <p class="image-title">Stellar dynamics</p>
   </div>
 
   <div class="image-item image-wide">
@@ -64,10 +64,10 @@ Here you can find visuals I created to illustrate my research. Feel free to use 
   </div>
 
   <div class="image-item">
-    <a href="/img/subgiant-structure.png" target="_blank">
-      <img src="/img/subgiant-structure.png" alt="Subgiant stellar structure">
+    <a href="/img/stellar-dynamics.png" target="_blank">
+      <img src="/img/stellar-dynamics.png" alt="Stellar dynamics">
     </a>
-    <p class="image-title">Insternal structure of a sub-giant star</p>
+    <p class="image-title">Stellar dynamics</p>
   </div>
 
   <div class="image-item">
