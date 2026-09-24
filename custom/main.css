@@ -9,3 +9,49 @@ h2 {
   color: #fff;
   font-size: 24px;
 }
+
+/* =========================
+   Posters
+   ========================= */
+
+.poster-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 35px;
+  margin: 30px 0;
+}
+
+.poster-card {
+  text-align: center;
+}
+
+.poster-card a {
+  display: block;
+}
+
+.poster-card img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.poster-card img:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+}
+
+.poster-card h3 {
+  margin-top: 15px;
+  margin-bottom: 5px;
+  font-size: 1.1rem;
+}
+
+.poster-card p {
+  margin-top: 0;
+  color: #777;
+  font-size: 0.9rem;
+}
