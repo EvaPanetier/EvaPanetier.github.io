@@ -81,7 +81,8 @@ author:
   email: "eva.panetier@cea.fr"
   github: EvaPanetier   # eg. daattali
 
-
+footer-extra: |
+  <p>Header image: ESA / Solar Orbiter / EUI</p>
 
 # Select which links to show in the footer
 footer-links-active:
