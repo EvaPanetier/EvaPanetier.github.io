@@ -959,13 +959,14 @@ main h3 {
 
   border-radius: 50%;
   background-color: #a6ce39;
+
+  transform: translateY(1px);
 }
 
 .orcid-icon img {
   width: 22px;
   height: 22px;
   display: block;
-  transform: translateY(1px);
 }
 
 
