@@ -34,7 +34,7 @@ title: Eva Panetier
 author: Eva Panetier
 
 # Short description of your site
-description: Academic website
+description: Eva Panetier — Researcher in solar and stellar physics.
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -134,7 +134,7 @@ excerpt_length: 50
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "solar physics,stellar physics,phd student,asteroseismology,data analysis"
+keywords: "solar physics,stellar physics,asteroseismology,structure,rotation,magnetism,data analysis"
 
 ######################################
 # --- Colours / background image --- #
@@ -266,7 +266,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Paris"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
