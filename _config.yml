@@ -44,9 +44,10 @@ navbar-links:
   # Links: "links"
   Home: ""
   Publications: "publications"
+  Posters: "posters"
   Projects: "projects"
   Datasets: "datasets"
-  Outreach: "teaching"
+  Outreach: "outreach"
   #CV: "CV"
   #  Contact: "contact"
   # Resources:
