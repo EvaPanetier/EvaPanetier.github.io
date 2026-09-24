@@ -787,7 +787,7 @@ td.gutter {
   margin: 22px 0;
   padding: 20px 24px 18px 28px;
 
-  background: #f7faf8;
+  background: #f8f8ff;
   border-left: 4px solid #7F81E3;
   border-radius: 8px;
 
@@ -864,7 +864,7 @@ td.gutter {
   margin-bottom: 0;
   padding-top: 12px;
 
-  border-top: 1px solid #d5e3dc;
+  border-top: 1px solid #d9daf0;
 
   color: #555;
   font-size: 0.95em;
@@ -874,7 +874,7 @@ td.gutter {
 
 /* "My contribution" */
 .publication .contribution {
-  background: #edf5f1;
+  background: #f0f1fc;
   border-radius: 6px;
   padding: 12px 15px;
 }
@@ -890,7 +890,7 @@ td.gutter {
   margin: 2px 0 12px 0;
   padding: 4px 11px;
 
-  background: #e2efe9;
+  background: #e8e9fa;
   color: #7F81E3;
 
   border-radius: 20px;
@@ -910,7 +910,7 @@ main h2 {
 
   color: #7F81E3;
 
-  border-bottom: 2px solid #d5e3dc;
+  border-bottom: 2px solid #d9daf0;
   padding-bottom: 8px;
 }
 
