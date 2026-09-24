@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+*Underlined names indicate students whom I supervised within these projects.*
+
+---
+
 # Peer-reviewed journal articles
 
 ### First-author publications
@@ -416,7 +420,4 @@ title: Publications
 A selection of my conference posters is available on the
 [**Posters**](../posters) page.
 
----
-
-*Underlined names indicate students whom I supervised within these projects.*
 
