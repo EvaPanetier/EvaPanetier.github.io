@@ -19,8 +19,8 @@ title: Publications
 
   <p class="publication-authors">
     <strong>Panetier E.</strong>, Hookway G. T., Corsaro E., Breton S. N., García R. A.,
-    Liagre B., Lund M. N., Nielsen M. B., Palakkatharappil D. B., Debacker L.,
-    Gosmain J., Chaumard M., Chontos A., Grundahl F., Mathur S. & Santos A. R. G.
+    Liagre B., Lund M. N., Nielsen M. B., Palakkatharappil D. B., <span class="student-name">Debacker L.</span>,
+    <span class="student-name">Gosmain J.</span>, <span class="student-name">Chaumard M.</span>, Chontos A., Grundahl F., Mathur S. & Santos A. R. G.
   </p>
 
   <p class="publication-journal">
@@ -235,8 +235,8 @@ title: Publications
 
   <p class="publication-authors">
     <strong>Panetier E.</strong>, Hookway G. T., Corsaro E., Breton S. N., García R. A.,
-    Liagre B., Lund M. N., Nielsen M. B., Palakkatharappil D. B., Debacker L.,
-    Gosmain J., Chaumard M., Chontos A., Grundahl F., Mathur S. & Santos A. R. G.
+    Liagre B., Lund M. N., Nielsen M. B., Palakkatharappil D. B., <span class="student-name">Debacker L.</span>,
+    <span class="student-name">Gosmain J.</span>, <span class="student-name">Chaumard M.</span>, Chontos A., Grundahl F., Mathur S. & Santos A. R. G.
   </p>
 
   <p class="publication-journal">
@@ -256,8 +256,8 @@ title: Publications
 
   <p class="publication-authors">
     <strong>Panetier E.</strong>, Hookway G. T., Corsaro E., Breton S. N., García R. A.,
-    Liagre B., Lund M. N., Nielsen M. B., Palakkatharappil D. B., Debacker L.,
-    Gosmain J., Chaumard M., Chontos A., Grundahl F., Mathur S. & Santos A. R. G.
+    Liagre B., Lund M. N., Nielsen M. B., Palakkatharappil D. B., <span class="student-name">Debacker L.</span>,
+    <span class="student-name">Gosmain J.</span>, <span class="student-name">Chaumard M.</span>, Chontos A., Grundahl F., Mathur S. & Santos A. R. G.
   </p>
 
   <p class="publication-journal">
@@ -316,7 +316,7 @@ title: Publications
   </h3>
 
   <p class="publication-authors">
-    <strong>Panetier E.</strong>, García R. A., Gosmain J., Lund M. N., Chontos A.,
+    <strong>Panetier E.</strong>, García R. A., <span class="student-name">Gosmain J.</span>, Lund M. N., Chontos A.,
     Grundahl F., Mathur S., Breton S. N., Palakkatharappil D. B., et al.
   </p>
 
@@ -360,8 +360,8 @@ title: Publications
 
   <p class="publication-authors">
     <strong>Panetier E.</strong>, Hookway G. T., Corsaro E., Breton S. N., García R. A.,
-    Liagre B., Lund M. N., Nielsen M. B., Palakkatharappil D. B., Debacker L.,
-    Gosmain J., Chaumard M., Chontos A., Grundahl F., Mathur S. & Santos A. R. G.
+    Liagre B., Lund M. N., Nielsen M. B., Palakkatharappil D. B., <span class="student-name">Debacker L.</span>,
+    <span class="student-name">Gosmain J.</span>, <span class="student-name">Chaumard M.</span>, Chontos A., Grundahl F., Mathur S. & Santos A. R. G.
   </p>
 
   <p class="publication-journal">
