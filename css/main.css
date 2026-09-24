@@ -960,7 +960,9 @@ main h3 {
   border-radius: 50%;
   background-color: #a6ce39;
 
-  transform: translateY(1px);
+  position: relative;
+  top: 3px;
+  vertical-align: middle;
 }
 
 .orcid-icon img {
