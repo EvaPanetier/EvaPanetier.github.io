@@ -7,7 +7,7 @@ Here you can find visuals I created to illustrate my research. Feel free to use 
 
 <div class="image-gallery">
 
-  <div class="image-item">
+  <div class="image-item image-wide">
     <a href="/img/stellar-evolution.png" target="_blank">
       <img src="/img/stellar-evolution.png" alt="Stellar evolution">
     </a>
@@ -28,21 +28,21 @@ Here you can find visuals I created to illustrate my research. Feel free to use 
     <p class="image-title">Internal structure of a main-sequence solar-like star</p>
   </div>
 
-  <div class="image-item">
+  <div class="image-item image-wide">
     <a href="/img/photospheric_rotation.png" target="_blank">
       <img src="/img/photospheric_rotation.png" alt="Photospheric rotation">
     </a>
     <p class="image-title">Measuring the photospheric rotation</p>
   </div>
 
-  <div class="image-item">
+  <div class="image-item image-wide">
     <a href="/img/solar_space_missions.png" target="_blank">
       <img src="/img/solar_space_missions.png" alt="Solar space missions">
     </a>
     <p class="image-title">Space missions used for helioseismology</p>
   </div>
 
-  <div class="image-item">
+  <div class="image-item" image-wide>
     <a href="/img/stars_space_missions.png" target="_blank">
       <img src="/img/stars_space_missions.png" alt="Space missions studying stars">
     </a>
@@ -56,7 +56,7 @@ Here you can find visuals I created to illustrate my research. Feel free to use 
     <p class="image-title">Stellar dynamics</p>
   </div>
 
-  <div class="image-item">
+  <div class="image-item image-wide">
     <a href="/img/stellar-environment.png" target="_blank">
       <img src="/img/stellar-environment.png" alt="Stellar environment">
     </a>
