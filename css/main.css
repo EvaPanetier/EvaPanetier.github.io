@@ -777,3 +777,51 @@ td.gutter {
     max-width: 100%;
   }
 }
+
+/* =========================
+   Publications
+   ========================= */
+
+.publication {
+  margin-bottom: 32px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.publication:last-child {
+  border-bottom: none;
+}
+
+.publication p {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.publication-count {
+  display: block;
+  margin-top: -5px;
+  margin-bottom: 25px;
+  color: #777;
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+.publication .contribution {
+  margin-top: 12px;
+  padding-left: 15px;
+  border-left: 3px solid #0F4C81;
+  color: #555;
+}
+
+.publication strong {
+  font-weight: 600;
+}
+
+h2 {
+  margin-top: 45px;
+}
+
+h3 {
+  margin-top: 35px;
+}
+
