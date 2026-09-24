@@ -18,7 +18,7 @@ My research focuses on understanding the connections between stellar internal st
 </div>
 ---
 
-### PAPER OUT: Revisiting the hypothesis of purely stochastic excitation of global p modes in the Sun [10.1051/0004-6361/202555189](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.236P/abstract)
+### PAPER OUT: Luminaries in the Sky: The TESS LEGACY Sample of Bright Stars. II. In-depth seismic characterisation of 32 naked-eye stars in the PLATO LOP fields [10.1051/0004-6361/202659786](https://www.aanda.org/articles/aa/full_html/2026/08/aa59786-26/aa59786-26.html)
 
 ---
 
@@ -26,9 +26,9 @@ My research focuses on understanding the connections between stellar internal st
 My research interests include:
 - Physics, astrophysics, especially solar and stellar related.
 - Pulsations and oscillation of stars, asteroseismology.
-- Magnetism.
+- Rotation/Magnetism.
 - Data analysis, statistics.
-- SoHO instrumeents, CoRoT, Kepler, TESS, PLATO
+- SoHO instruments, CoRoT, Kepler, TESS, PLATO
 
 ## Curriculum Vitae
 
