@@ -25,7 +25,7 @@ title: Publications
 
   <p class="publication-journal">
     <em>Astronomy & Astrophysics</em>, 2026.
-    <a href="#" target="_blank">Link</a>
+    <a href="https://www.aanda.org/articles/aa/full_html/2026/08/aa59786-26/aa59786-26.html" target="_blank">Link</a>
   </p>
 
   <p class="publication-description contribution">
@@ -51,7 +51,7 @@ title: Publications
 
   <p class="publication-journal">
     <em>Astronomy & Astrophysics</em>, 2025.
-    <a href="#" target="_blank">Link</a>
+    <a href="https://www.aanda.org/articles/aa/full_html/2025/08/aa55189-25/aa55189-25.html" target="_blank">Link</a>
   </p>
 
   <p class="publication-description contribution">
