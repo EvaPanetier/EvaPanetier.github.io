@@ -787,76 +787,108 @@ td.gutter {
   margin: 22px 0;
   padding: 20px 24px 18px 28px;
 
-  background: #f8fafc;
-  border-left: 4px solid #0F4C81;
+  background: #f7faf8;
+  border-left: 4px solid #176B4D;
   border-radius: 8px;
 
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 2px 8px rgba(0, 50, 30, 0.08);
 
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .publication:hover {
   transform: translateY(-2px);
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 5px 15px rgba(0, 50, 30, 0.14);
 }
 
-/* Authors */
+
+/* =========================================================
+   Publication title
+   ========================================================= */
+
+.publication-title {
+  color: #0F4A35;
+  font-size: 1.18em;
+  font-weight: 700;
+  line-height: 1.45;
+
+  margin-bottom: 10px;
+}
+
+
+/* If your title is simply written in <strong> */
+.publication strong:nth-of-type(2) {
+  color: #0F4A35;
+  font-size: 1.12em;
+}
+
+
+/* =========================================================
+   Authors
+   ========================================================= */
+
 .publication p {
   margin-bottom: 8px;
 }
 
-/* Title */
-.publication strong:nth-of-type(2) {
-  color: #17365d;
+.publication strong:first-child {
+  color: #176B4D;
 }
 
-/* Links */
+
+/* =========================================================
+   Links
+   ========================================================= */
+
 .publication a {
-  color: #0F4C81;
+  color: #176B4D;
   font-weight: 600;
   text-decoration: none;
 }
 
 .publication a:hover {
-  color: #c45a20;
+  color: #0F4A35;
   text-decoration: underline;
 }
 
-/* My name */
-.publication strong:first-child {
-  color: #0F4C81;
-}
 
-/* Description / contribution */
+/* =========================================================
+   Description / contribution
+   ========================================================= */
+
 .publication p:last-child {
   margin-top: 14px;
   margin-bottom: 0;
   padding-top: 12px;
 
-  border-top: 1px solid #d9e2ec;
+  border-top: 1px solid #d5e3dc;
 
   color: #555;
   font-size: 0.95em;
   line-height: 1.6;
 }
 
+
 /* "My contribution" */
 .publication .contribution {
-  background: #eef5fa;
+  background: #edf5f1;
   border-radius: 6px;
   padding: 12px 15px;
 }
 
-/* Publication counts */
+
+/* =========================================================
+   Publication counts
+   ========================================================= */
+
 .publication-count {
   display: inline-block;
 
   margin: 2px 0 12px 0;
   padding: 4px 11px;
 
-  background: #e8f1f7;
-  color: #0F4C81;
+  background: #e2efe9;
+  color: #176B4D;
 
   border-radius: 20px;
 
@@ -864,14 +896,18 @@ td.gutter {
   font-weight: 600;
 }
 
-/* Section headings */
+
+/* =========================================================
+   Section headings
+   ========================================================= */
+
 main h2 {
   margin-top: 45px;
   margin-bottom: 20px;
 
-  color: #0F4C81;
+  color: #176B4D;
 
-  border-bottom: 2px solid #d9e2ec;
+  border-bottom: 2px solid #d5e3dc;
   padding-bottom: 8px;
 }
 
@@ -879,10 +915,14 @@ main h3 {
   margin-top: 32px;
   margin-bottom: 8px;
 
-  color: #333;
+  color: #0F4A35;
 }
 
-/* Mobile */
+
+/* =========================================================
+   Mobile
+   ========================================================= */
+
 @media (max-width: 600px) {
 
   .publication {
@@ -890,6 +930,11 @@ main h3 {
     margin: 16px 0;
   }
 
+  .publication-title {
+    font-size: 1.08em;
+  }
+
 }
+
 
 
