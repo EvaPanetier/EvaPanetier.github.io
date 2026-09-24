@@ -11,49 +11,27 @@ title: Publications
 
 <div class="pub-list">
 
-<div class="pub-card">
+<div class="publication">
 
-  <div class="pub-card-header">
+<p class="pub-authors">
+<strong>Panetier E.</strong>, García R. A., Breton S. N., Jiménez A. & Foglizzo T.
+</p>
 
-    <span class="pub-year">2025</span>
+<p class="pub-title">
+<strong>Revisiting the hypothesis of purely stochastic excitation of global p modes in the Sun.</strong>
+</p>
 
-    <span class="pub-type first-author">
-      First author
-    </span>
+<p class="pub-journal">
+<em>Astronomy & Astrophysics</em>, 2025.
+<a href="#" target="_blank">[Link]</a>
+</p>
 
-  </div>
-
-  <div class="pub-card-body">
-
-    <h4 class="pub-title">
-      Revisiting the hypothesis of purely stochastic excitation
-      of global p modes in the Sun
-    </h4>
-
-    <p class="pub-authors">
-      <span class="pub-me">Panetier, E.</span>,
-      García, R. A., Breton, S. N., Jiménez, A. & Foglizzo, T.
-    </p>
-
-    <p class="pub-journal">
-      <em>Astronomy & Astrophysics</em>
-    </p>
-
-    <p class="pub-description">
-      This work examines how surface magnetic activity influences the excitation
-      of solar p modes based on 27 years of Sun-as-a-star Doppler velocity and
-      intensity observations. The analysis reveals excitation rates exceeding
-      those expected from purely stochastic processes and explores their temporal
-      correlation with magnetic activity events, including CMEs and solar flares.
-    </p>
-
-    <a class="pub-link" href="#" target="_blank">
-      ↗ Read publication
-    </a>
-
-  </div>
+<p>
+This work examines how surface magnetic activity influences the excitation of solar p modes based on 27 years of Sun-as-a-star Doppler velocity and intensity observations.
+</p>
 
 </div>
+
 
 
 
