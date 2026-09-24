@@ -9,31 +9,6 @@ title: Publications
 
 <span class="publication-count">2 published</span>
 
-<div class="publication">
-
-  <h3 class="publication-title">
-    Revisiting the hypothesis of purely stochastic excitation of global p modes in the Sun.
-  </h3>
-
-  <p class="publication-authors">
-    <strong>Panetier E.</strong>, García R. A., Breton S. N., Jiménez A. & Foglizzo T.
-  </p>
-
-  <p class="publication-journal">
-    <em>Astronomy & Astrophysics</em>, 2025.
-    <a href="#" target="_blank">Link</a>
-  </p>
-
-  <p class="publication-description">
-    This work examines how surface magnetic activity influences the excitation of solar
-    p modes based on 27 years of Sun-as-a-star Doppler velocity and intensity observations.
-    The analysis reveals excitation rates exceeding those expected from purely stochastic
-    processes and explores their temporal correlation with magnetic activity events,
-    including CMEs and solar flares.
-  </p>
-
-</div>
-
 
 <div class="publication">
 
@@ -49,11 +24,11 @@ title: Publications
   </p>
 
   <p class="publication-journal">
-    <em>Astronomy & Astrophysics</em>.
+    <em>Astronomy & Astrophysics</em>, 2026.
     <a href="#" target="_blank">Link</a>
   </p>
 
-  <p class="publication-description">
+  <p class="publication-description contribution">
     This project focuses on identifying potential calibration targets for the PLATO
     mission through the seismic characterisation of bright solar-like stars observed
     by TESS within the PLATO LOP fields, as part of the TESS Luminaries Sample
@@ -64,6 +39,30 @@ title: Publications
 
 </div>
 
+<div class="publication">
+
+  <h3 class="publication-title">
+    Revisiting the hypothesis of purely stochastic excitation of global p modes in the Sun.
+  </h3>
+
+  <p class="publication-authors">
+    <strong>Panetier E.</strong>, García R. A., Breton S. N., Jiménez A. & Foglizzo T.
+  </p>
+
+  <p class="publication-journal">
+    <em>Astronomy & Astrophysics</em>, 2025.
+    <a href="#" target="_blank">Link</a>
+  </p>
+
+  <p class="publication-description contribution">
+    This work examines how surface magnetic activity influences the excitation of solar
+    p modes based on 27 years of Sun-as-a-star Doppler velocity and intensity observations.
+    The analysis reveals excitation rates exceeding those expected from purely stochastic
+    processes and explores their temporal correlation with magnetic activity events,
+    including CMEs and solar flares.
+  </p>
+
+</div>
 
 ### Contributions as a main author
 
@@ -84,7 +83,7 @@ title: Publications
   </p>
 
   <p class="publication-journal">
-    <em>Astronomy & Astrophysics</em>.
+    <em>Astronomy & Astrophysics</em>, 2026.
     <a href="#" target="_blank">Link</a>
   </p>
 
