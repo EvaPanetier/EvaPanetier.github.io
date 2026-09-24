@@ -11,14 +11,12 @@ h2 {
 }
 
 
-/* =========================
-   Posters
-   ========================= */
+/* Posters */
 
 .poster-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 30px;
+  gap: 25px;
   margin-top: 30px;
 }
 
@@ -27,37 +25,38 @@ h2 {
 }
 
 .poster-card img {
-  display: block;
-  width: 100%;
+  width: 70%;
   height: auto;
   margin: 0 auto;
+  display: block;
   border: 1px solid #ddd;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  transition: transform 0.2s ease;
 }
 
 .poster-card img:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
+  transform: scale(1.03);
 }
 
 .poster-card h3 {
-  margin-top: 15px;
+  font-size: 16px;
+  margin-top: 10px;
   margin-bottom: 5px;
-  font-size: 18px;
 }
 
 .poster-card p {
-  margin-top: 0;
+  font-size: 13px;
   color: #777;
-  font-size: 14px;
+  margin-top: 0;
 }
 
-
-/* On smaller screens */
-@media (max-width: 800px) {
+/* One column on small screens */
+@media (max-width: 700px) {
   .poster-grid {
     grid-template-columns: 1fr;
   }
-}
 
+  .poster-card img {
+    width: 60%;
+  }
+}
