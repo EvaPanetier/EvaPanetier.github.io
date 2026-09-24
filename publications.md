@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Publications & Communications
 ---
 
 *Underlined names indicate students whom I supervised within these projects.*
