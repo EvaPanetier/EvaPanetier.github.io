@@ -5,30 +5,52 @@ title: Posters
 
 Here you can find selected posters presenting my research.
 
-<div class="poster-grid">
+<div class="poster-gallery">
 
-  <div class="poster-card">
+  <div class="poster-item">
     <a href="/img/poster_luminaries_0726.png" target="_blank">
-      <img src="/img/poster_luminaries_0726.png" alt="Poster 3">
+      <img src="/img/poster_luminaries_0726.png"
+           alt="Precise seismic characterisation of TESS Luminaries in the PLATO LOP fields">
     </a>
-    <h3>Precise seismic characterisation of TESS Luminaries in the PLATO LOP fields</h3>
-    <p>TASC10/KASC17 — 10th TESS/17th Kepler Asteroseismic Science Consortium Workshop · Aarhus (Denmark) · 2026</p>
-  </div>
-  
-  <div class="poster-card">
-    <a href="/img/poster_excitation_0725.pdf" target="_blank">
-      <img src="/img/poster_excitation_0725.png" alt="Poster 2">
-    </a>
-    <h3>Is turbulent convection the only exciting mechanism of acoustic modes in solar-like oscillators? </h3>
-    <p>TASC9/KASC16 — 9th TESS/16th Kepler Asteroseismic Science Consortium Workshop · Vienna (Austria) · 2025</p>
+    <div class="poster-info">
+      <p class="poster-title">
+        Precise seismic characterisation of TESS Luminaries in the PLATO LOP fields
+      </p>
+      <p class="poster-location">
+        TASC10/KASC17 — 10th TESS/17th Kepler Asteroseismic Science Consortium Workshop · Aarhus, Denmark · 2026
+      </p>
+    </div>
   </div>
 
-  <div class="poster-card">
-    <a href="/img/poster_luminaries_0725.png" target="_blank">
-      <img src="/img/poster_luminaries_0725.png" alt="Poster 1">
+  <div class="poster-item">
+    <a href="/img/poster_excitation_0725.pdf" target="_blank">
+      <img src="/img/poster_excitation_0725.png"
+           alt="Is turbulent convection the only exciting mechanism of acoustic modes in solar-like oscillators?">
     </a>
-    <h3>Luminaries in the sky: the TESS Legacy sample of bright stars: Preliminary results for 99 Her.</h3>
-    <p>TASC9/KASC16 — 9th TESS/16th Kepler Asteroseismic Science Consortium Workshop · Vienna (Austria) · 2025</p>
+    <div class="poster-info">
+      <p class="poster-title">
+        Is turbulent convection the only exciting mechanism of acoustic modes in solar-like oscillators?
+      </p>
+      <p class="poster-location">
+        TASC9/KASC16 — 9th TESS/16th Kepler Asteroseismic Science Consortium Workshop · Vienna, Austria · 2025
+      </p>
+    </div>
+  </div>
+
+  <div class="poster-item">
+    <a href="/img/poster_luminaries_0725.png" target="_blank">
+      <img src="/img/poster_luminaries_0725.png"
+           alt="Luminaries in the sky: the TESS Legacy sample of bright stars">
+    </a>
+    <div class="poster-info">
+      <p class="poster-title">
+        Luminaries in the sky: the TESS Legacy sample of bright stars: Preliminary results for 99 Her.
+      </p>
+      <p class="poster-location">
+        TASC9/KASC16 — 9th TESS/16th Kepler Asteroseismic Science Consortium Workshop · Vienna, Austria · 2025
+      </p>
+    </div>
   </div>
 
 </div>
+
