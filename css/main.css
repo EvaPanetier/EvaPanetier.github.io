@@ -740,7 +740,8 @@ td.gutter {
 }
 
 .image-gallery .image-item.image-wide img {
-  width: 780px;
+  display: block;
+  width: 100%;
   max-width: 100%;
   height: auto;
   margin: 0 auto 12px auto;
