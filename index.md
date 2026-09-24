@@ -16,7 +16,7 @@ My research focuses on understanding the connections between stellar internal st
   -
   <a href="/posters/">Posters gallery</a>
   -
-  <a href="/images/">Read-to-use Images</a>
+  <a href="/images/">Ready-to-use Images</a>
 </div>
 ---
 
