@@ -939,5 +939,12 @@ main h3 {
 
 }
 
+.student-name {
+  text-decoration: underline;
+  text-decoration-color: #7F81E3;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
 
 
