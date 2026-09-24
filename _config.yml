@@ -43,12 +43,13 @@ description: Eva Panetier — Researcher in solar and stellar physics.
 navbar-links:
   # Links: "links"
   Home: ""
+  CV: "CV"
   Publications: "publications"
   Posters: "posters"
-  Projects: "projects"
-  Datasets: "datasets"
-  Outreach: "outreach"
-  #CV: "CV"
+  #Projects: "projects"
+  #Datasets: "datasets"
+  #Outreach: "outreach"
+  Ready-to-use images: "images"
   #  Contact: "contact"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
