@@ -3,7 +3,7 @@ layout: page
 title: Posters
 ---
 
-Here you can find selected posters presenting my research.
+Here you can find selected posters presenting my research. Click on each poster to visualise the pdf.
 
 <div class="poster-gallery">
 
