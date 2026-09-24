@@ -17,7 +17,7 @@ Here you can find selected posters presenting my research.
   
   <div class="poster-card">
     <a href="/img/poster_excitation_0725.pdf" target="_blank">
-      <img src="/img/poster_excitation_0725.jpg" alt="Poster title">
+      <img src="/img/poster_excitation_0725.png" alt="Poster title">
     </a>
     <h3>Is turbulent convection the only exciting mechanism of acoustic modes in lsolar-like oscillators? </h3>
     <p>TASC9/KASC16 — 9th TESS/16th Kepler Asteroseismic Science Consortium Workshop · Vienna (Austria) · 2025</p>
