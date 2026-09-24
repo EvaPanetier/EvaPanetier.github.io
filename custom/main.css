@@ -23,6 +23,11 @@ h2 {
   margin: 30px 0 !important;
 }
 
+.poster-grid {
+  background: red !important;
+  border: 10px solid blue !important;
+}
+
 .poster-card {
   display: block !important;
   width: 100% !important;
